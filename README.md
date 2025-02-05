@@ -6,6 +6,15 @@ A modern and responsive dashboard application built using [Next.js](https://next
 
 ---
 
+## 🔑 Credentials
+
+To log in, use the following credentials:
+
+- **Email:** `user@nextmail.com`
+- **Password:** `123456`
+
+---
+
 ## 🚀 Features
 
 - **Authentication:** Secure user login with credentials.
